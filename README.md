@@ -1,5 +1,5 @@
-1.# Research
-For me to keep track of things I read or find interesting
+# Research
+Just a place for me to keep track of things I read or find interesting
 
 #### Resources and Tools
 1.  [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
