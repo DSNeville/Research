@@ -20,3 +20,7 @@ Just a place for me to keep track of things I read or find interesting
 #### Potential Projects
 
 1. [Atrial Segmentation CHallenge](http://atriaseg2018.cardiacatlas.org/)
+
+#### Classes
+
+1.  [Recommended Deep Learning Class](https://www.class-central.com/course/kadenze-creative-applications-of-deep-learning-with-tensorflow-6679)
