@@ -16,10 +16,19 @@ Just a place for me to keep track of things I read or find interesting
 4.  [Image Translation](https://arxiv.org/pdf/1611.07004.pdf)
 5.  [Nice How GANs Work by DL4J](https://deeplearning4j.org/generative-adversarial-network)
 
+#### Capsule Networks
+
+1. [Capsule Networks How to - Medium](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)
+2. [The What and Why of Binding](https://fias.uni-frankfurt.de/fileadmin/fias/malsburg/publications/cvdm.pdf)
+3. [Distortion Invariant Object Recognition in the Dynamic Link Architecture - 1993](https://fias.uni-frankfurt.de/fileadmin/fias/malsburg/publications/LadEtAl1993.pdf) (follow-up)
+4. [Capsule Routing Detailed Easy Walkthrough](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)
+5. [Matrix Capsules - Hinton](https://openreview.net/pdf?id=HJWLfGWRb)
+6. [Dyanmic Capsule Routing - Hinton](https://arxiv.org/pdf/1710.09829v1.pdf)
+
 
 #### Potential Projects
 
-1. [Atrial Segmentation CHallenge](http://atriaseg2018.cardiacatlas.org/)
+1. [Atrial Segmentation Challenge](http://atriaseg2018.cardiacatlas.org/)
 
 #### Classes
 
