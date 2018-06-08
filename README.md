@@ -1,9 +1,13 @@
 # Research
-Just a place for me to keep track of things I read or find interesting
+Just a place for me to keep track of things I read or find interesting or reference often
 
 #### Resources and Tools
 1.  [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
-2. [Tensorflow Playground](http://playground.tensorflow.org/)
+2.  [Tensorflow Playground](http://playground.tensorflow.org/)
+3.  [Tensorflow for R-Studio](https://tensorflow.rstudio.com/) (Also has nice Keras examples in R)
+4.  [R Keras Intro Models](https://cran.r-project.org/web/packages/kerasR/vignettes/introduction.html)
+5.  [Awesome R Repo](https://github.com/daattali)
+6.  [Great DS Centric Articles] (http://www.datatau.com/)
 
 
 #### Deeplearning Research Papers and Projects 
