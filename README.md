@@ -19,7 +19,7 @@ Just a place for me to keep track of things I read or find interesting or refere
 3.  [3D-GAN Learning 3D Latent Space](http://3dgan.csail.mit.edu/)
 4.  [Image Translation](https://arxiv.org/pdf/1611.07004.pdf)
 5.  [Nice How GANs Work by DL4J](https://deeplearning4j.org/generative-adversarial-network)
-6.  [Anime with CapsuleGan] (https://towardsdatascience.com/drawing-anime-girls-with-deep-learning-4fa6523eb4d4)
+6.  [Anime with CapsuleGan](https://towardsdatascience.com/drawing-anime-girls-with-deep-learning-4fa6523eb4d4)
 
 #### Capsule Networks
 
