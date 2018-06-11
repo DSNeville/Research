@@ -184,7 +184,7 @@ jpF <- function(dataANDcolname, env = parent.frame()){
 # make a skinny table wide
 # spread(df1,element,value)
 
-############################### data.table ##########################################
+############################### rshape2 ##########################################
 
 # assign <- data %>% 
 #    dcast(colA + colB + colC ~ colD(The column to make WIDE))
