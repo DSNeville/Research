@@ -151,6 +151,9 @@ jpN <- function(dataANDcolname, env = parent.frame()){
   
 }
 
+AppSummary2 <- AppSummary %>% filter(!is.na(FirstEntry)) %>%
+   dcast(kiosk_id+date_scanned+placement_code ~ FirstEntry)
+
 jpF <- function(dataANDcolname, env = parent.frame()){
   #  Pass as dataframe$columnName
   
@@ -180,6 +183,11 @@ jpF <- function(dataANDcolname, env = parent.frame()){
 
 # make a skinny table wide
 # spread(df1,element,value)
+
+############################### data.table ##########################################
+
+# assign <- data %>% 
+#    dcast(colA + colB + colC ~ colD(The column to make WIDE))
 
 ############################### Rename and Reorder #############################
 
