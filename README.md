@@ -1,3 +1,4 @@
+
 # Research
 Just a place for me to keep track of things I read or find interesting or reference often
 
@@ -8,6 +9,10 @@ Just a place for me to keep track of things I read or find interesting or refere
 4.  [R Keras Intro Models](https://cran.r-project.org/web/packages/kerasR/vignettes/introduction.html)
 5.  [Awesome R Repo](https://github.com/daattali)
 6.  [Great DS Centric Articles] (http://www.datatau.com/)
+
+#### Data Science Process
+
+1.  [Lego Price Analysis - Great Approach to Model Testing(3.2)](https://www.kaggle.com/jonathanbouchet/are-lego-sets-too-pricey?utm_medium=email&utm_source=mailchimp&utm_campaign=data-notes-may-31)
 
 
 #### Deeplearning Research Papers and Projects 
