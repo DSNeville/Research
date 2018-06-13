@@ -199,11 +199,11 @@ jpF <- function(dataANDcolname, env = parent.frame()){
 #    observe({
 #         if(!exists(tableData)){
 #              tableData <- getTableData()
-#           } else if(F %in% (oldList, newList)){ # Use ID field, check for delta
-#              tableData <- getTableData() #OR UpdateTableData()
+#           } else if(F %in% (newList %in% oldList)){ # Use ID field, check for delta
+#              tableData2 <- getTableData() #OR UpdateTableData()
 #              output$OutputTableName <- renderRHandsontable({
-#                 if(!is.null(tableData))
-#                    rhandsontable(tableData) %>% otherFeatures()
+#                 if(!is.null(tableData2))
+#                    rhandsontable(tableData2) %>% otherFeatures()
 #               })
 #           }
 #           if(!is.null(input$OutputTableName)){
