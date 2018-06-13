@@ -189,6 +189,41 @@ jpF <- function(dataANDcolname, env = parent.frame()){
 # assign <- data %>% 
 #    dcast(colA + colB + colC ~ colD(The column to make WIDE))
 
+############################### shiny tricks #####################################
+
+######### Edit RHandsonTable, button Click response and responsive table
+#  Ui <- shinyUI(rHandsontableOutput('OutputTableName'))
+# Server
+# observeEvent(input$buttonName,{
+#     x <<- reactiveValues()
+#    observe({
+#         if(!exists(tableData)){
+#              tableData <- getTableData()
+#           } else if(F %in% (oldList, newList)){ # Use ID field, check for delta
+#              tableData <- getTableData() #OR UpdateTableData()
+#              output$OutputTableName <- renderRHandsontable({
+#                 if(!is.null(tableData))
+#                    rhandsontable(tableData) %>% otherFeatures()
+#               })
+#           }
+#           if(!is.null(input$OutputTableName)){
+#             tableData = hot_to_r(input$OutputTableName)
+#              } else {
+#              if (is.null(x[["tableData"]]))
+#                   tableData <<- tableData
+#               else
+#                 tableData <<- x[["tableData"]]
+#               }
+#            x[["tableData"]] <<- tableData
+#             })
+#    
+#  output$OutputTableName <- renderRHandsontable({
+#    tableData <<- x[["tableData"]]
+#    if (!is.null(tableData))
+#      rhandsontable(tableData)
+#  })
+#
+
 ############################### Rename and Reorder #############################
 
 # reNameReOrder <- function(data, oldNames, newNames, nameOrder){
