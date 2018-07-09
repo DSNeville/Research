@@ -9,6 +9,11 @@ Just a place for me to keep track of things I read or find interesting or refere
 4.  [R Keras Intro Models](https://cran.r-project.org/web/packages/kerasR/vignettes/introduction.html)
 5.  [Awesome R Repo](https://github.com/daattali)
 6.  [Great DS Centric Articles] (http://www.datatau.com/)
+7.  [FB-prophet](https://github.com/facebook/prophet)
+8.  [Literally awesome-R](https://github.com/qinwf/awesome-R)
+9.  [DS Tools for R w Examples](https://github.com/ujjwalkarn/DataScienceR)
+10.  [R Blogging](https://github.com/rstudio/blogdown)
+11.  [Google Optimization Examples in Python](https://developers.google.com/optimization/)
 
 #### Data Science Process
 
@@ -35,6 +40,10 @@ Just a place for me to keep track of things I read or find interesting or refere
 5. [Matrix Capsules - Hinton](https://openreview.net/pdf?id=HJWLfGWRb)
 6. [Dyanmic Capsule Routing - Hinton](https://arxiv.org/pdf/1710.09829v1.pdf)
 7. [Capsule-GAN Repo](https://github.com/gusgad/capsule-GAN)
+
+#### NLP
+
+1. [NLP Porjects and Data](https://github.com/sebastianruder/NLP-progress)
 
 
 #### Potential Projects
