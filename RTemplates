@@ -1,0 +1,14 @@
+---
+title: "Cool Title"
+author:  "JP Neville"
+params:
+  d: !r Sys.Date()
+output:
+  html_notebook: shiny
+---
+
+### Reporting Date:   `r params$d`
+
+```{r, include=FALSE}
+
+```
