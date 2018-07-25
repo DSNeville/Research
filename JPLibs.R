@@ -8,6 +8,33 @@
 # Interactive time series plotting
 # RMD integration with shiny
 
+
+install.packages(
+  c(
+    "properties",
+    "shinyjs",
+    "methods",
+    "dplyr",
+    "ggplot2",
+    "ggthemes",
+    "RJDBC",
+    "sqldf",
+    "rhandsontable",
+    "reshape2",
+    "stringr",
+    "xlsx",
+    "DT",
+    "grid",
+    "gridExtra",
+    "extrafont",
+    "forecast",
+    "V8",
+    "data.table",
+    "pool",
+    "plotly"
+  )
+) 
+
      ######################################################################
 ############################ Reading Data ######################################
      ######################################################################
