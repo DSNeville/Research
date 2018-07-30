@@ -14,6 +14,7 @@ Just a place for me to keep track of things I read or find interesting or refere
 9.  [DS Tools for R w Examples](https://github.com/ujjwalkarn/DataScienceR)
 10.  [R Blogging](https://github.com/rstudio/blogdown)
 11.  [Google Optimization Examples in Python](https://developers.google.com/optimization/)
+12.  [Facebook Detectron - Used in winning Kaggles](https://github.com/facebookresearch/detectron)
 
 #### Data Science Process
 
